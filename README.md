@@ -6,6 +6,10 @@ My name is Cristiane S. Damo.
 
 I have a degree in humanities and I have experience in historical archives but now I decided to change career.
 
+📖 I’m currently learning about logic, algorithms and C language.
+
+
+
 <!--
 **csdamo/csdamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,4 +23,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📖
 -->
