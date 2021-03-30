@@ -4,7 +4,7 @@ My name is Cristiane S. Damo.
 
 ✨I'm a Analysis and Systems Development student. 
 
-I have a degree in humanities, experience in historical archives but now I decided to change career.
+I have a degree in humanities and I have experience in historical archives but now I decided to change career.
 
 <!--
 **csdamo/csdamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
