@@ -6,7 +6,7 @@ My name is Cristiane S. Damo.
 
 I have a degree in humanities and I have experience in historical archives but now I decided to change career.
 
-📖 I’m currently learning about logic, algorithms and C language.
+📖 I’m currently learning about logic, algorithms, C language, Git and GitHub.
 
 
 
