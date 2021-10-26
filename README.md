@@ -6,7 +6,7 @@ My name is Cristiane S. Damo.
 
 I have a degree in humanities and I have experience in historical archives but now I decided to change career.
 
-📖 I’m currently learning about Object Oriented Programming, Python, Git and GitHub.
+📖 I’m currently learning about Object Oriented Programming, Python, Django, Git and GitHub.
 
 ![Python](https://user-images.githubusercontent.com/64370426/127397706-152b86cd-a71b-4bf6-b3b7-e33394c8b418.png)
 ![Git](https://user-images.githubusercontent.com/64370426/127398127-faf3ed7f-7b03-4713-9fce-92b10f26283c.png)
